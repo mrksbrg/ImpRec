@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<REQ ID="Reqts_A"/>
+<REQ ID="Reqts_B"/>
+<REQ ID="Reqts_C"/>
+<HARDWARE ID="HardwareLib_A"/>
+<TEST ID="Test_A"/>
+<TEST ID="Test_B"/>
+<TEST ID="Test_C"/>
+<TEST ID="Test_D"/>
+<TEST ID="Test_E"/>
+<TrackerCase ID="19930" Safety="True"/>
+<VerifiedBy>Test_E</VerifiedBy>
+<TrackerCase ID="19931" Safety="False">
+</TrackerCase>
+<TrackerCase ID="19934" Safety="False">
+<RelatedCase>19937</RelatedCase>
+</TrackerCase>
+<TrackerCase ID="19937" Safety="False">
+<SpecifiedBy>Reqts_A</SpecifiedBy>
+<NeedsUpdate>Reqts_B</NeedsUpdate>
+</TrackerCase>
+<TrackerCase ID="19944" Safety="False"/>
+<TrackerCase ID="19949" Safety="False">
+<RelatedCase>19934</RelatedCase>
+<ImpactedHW>HardwareLib_A</ImpactedHW>
+<RelatedCase>19931</RelatedCase>
+</TrackerCase>
+<TrackerCase ID="19960" Safety="False"/>
+<NeedsUpdate>Test_B</NeedsUpdate>
+<VerifiedBy>Test_D</VerifiedBy>
+<TrackerCase ID="19815" Safety="False">
+<RelatedCase>19960</RelatedCase>
+<VerifiedBy>Test_A</VerifiedBy>
+<VerifiedBy>Test_B</VerifiedBy>
+</TrackerCase>
+<TrackerCase ID="19821" Safety="False"/>
+<TrackerCase ID="19829" Safety="False">
+<RelatedCase>19944</RelatedCase>
+<ImpactedHW>HardwareLib_A</ImpactedHW>
+<VerifiedBy>Test_C</VerifiedBy>
+</TrackerCase>
+</root>
