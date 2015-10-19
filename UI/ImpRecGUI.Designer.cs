@@ -73,7 +73,7 @@
             this.txtInput.Name = "txtInput";
             this.txtInput.Size = new System.Drawing.Size(308, 127);
             this.txtInput.TabIndex = 0;
-            this.txtInput.Text = "PASTE TEXTUAL DESCRIPTION OF THE TRACKER CASE HERE\r\n";
+            this.txtInput.Text = "PASTE TEXTUAL DESCRIPTION OF THE ISSUE REPORT HERE\r\n";
             // 
             // btnImpact
             // 
@@ -203,9 +203,9 @@
             this.lblHelp1.Location = new System.Drawing.Point(128, 170);
             this.lblHelp1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblHelp1.Name = "lblHelp1";
-            this.lblHelp1.Size = new System.Drawing.Size(217, 17);
+            this.lblHelp1.Size = new System.Drawing.Size(214, 17);
             this.lblHelp1.TabIndex = 18;
-            this.lblHelp1.Text = "Here will be similar tracker cases!";
+            this.lblHelp1.Text = "Here will be similar issue reports!";
             // 
             // groupBox2
             // 
