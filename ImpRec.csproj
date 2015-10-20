@@ -79,6 +79,8 @@
       <DesignTime>True</DesignTime>
     </Compile>
     <None Include="bin\Release\knowlbase.dat" />
+    <None Include="Documentation\ImpRec_InterviewGuides.pdf" />
+    <None Include="Documentation\ImpRec_UserManual_Blurred.pdf" />
     <None Include="input\translation.csv" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
