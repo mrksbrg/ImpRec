@@ -4,6 +4,7 @@ ImpRec is a prototype tool supporting change impact analysis (CIA) developed as 
 
 - ImpRec has been evaluated in an industrial case study with two units of analysis in Sweden and India. The interview guides are available in the documentation folder.
 - A  user manual is available in the Documentation folder. Note that ImpRec was released under the name CaseDigger in the industrial case study.
+- The power of ImpRec lies in the semantic network, but the network from the publications is confidential information from a proprietary company. In order to use ImpRec, you need to extend the dummy data available in the "input" folder. The Xml structure should be slef-explanatory.
 
 # Publications
 - Borg and Runeson, Changes, Evolution and Bugs - Recommendation Systems for Issue Management, In Robillard, Maalej, Walker, and Zimmermann (Eds.), Recommendation Systems in Software Engineering, pp. 407-509, Springer, 2014.
