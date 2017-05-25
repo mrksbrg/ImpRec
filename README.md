@@ -15,5 +15,6 @@ The power of ImpRec lies in reusing knowledge captured in the semantic network. 
 - translation.csv contains the titles of documents that might appear only as identifiers in the impact analysis reports (and thus in the semantic network).
 
 ## Primary Publications
+- Borg, Wnuk, Regnell, and Runeson. Supporting Change Impact Analysis Using a Recommendation System: An Industrial Case Study in a Safety-Critical Context, IEEE Transactions on Software Engineering, DOI: 10.1109/TSE.2016.2620458, 2016.
 - Borg and Runeson, Changes, Evolution and Bugs - Recommendation Systems for Issue Management, In Robillard, Maalej, Walker, and Zimmermann (Eds.), Recommendation Systems in Software Engineering, pp. 407-509, Springer, 2014.
 - Borg, Gotel, and Wnuk. Enabling Traceability Reuse for Impact Analyses: A Feasibility Study in a Safety Context, In Proc. of the International Workshop on Traceability in Emerging Forms of Software Engineering, pp. 72-79, 2013.
