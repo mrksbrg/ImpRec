@@ -108,10 +108,10 @@
     <None Include="input\semanticNetwork.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ac800m_impactdata.xml" />
+    <None Include="input\impactAnalyses.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="input\impactAnalyses.xml" />
+    <Folder Include="Resources\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

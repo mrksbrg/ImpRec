@@ -57,7 +57,7 @@ namespace ImpRec
         /// <param name="e"></param>
         private void ImpRecGUI_Load(object sender, EventArgs e)
         {
-            this.Text = "CaseDigger " + VERSION;
+            this.Text = "ImpRec " + VERSION;
             session = new SessionInfo(VERSION);
             session.StoreToolStart();
             try
@@ -414,7 +414,7 @@ namespace ImpRec
         private void btnDone_Click(object sender, EventArgs e)
         {
             // Prepare a string to copy to clipboard
-            String clipboardText = "### CaseDigger output ###\r\n";
+            String clipboardText = "### ImpRec (version " + VERSION + " output ###\r\n";
 
             LinkedList<SoftwareArtifact> resList = new LinkedList<SoftwareArtifact>();
             // The user has clicked done, we store the current check box choices as correct and copy to clipboard
