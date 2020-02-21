@@ -1,6 +1,7 @@
 # ImpRec - An Impact Recommender
 [![Build Status](https://travis-ci.com/mrksbrg/ImpRec.svg?branch=master)](https://travis-ci.com/mrksbrg/ImpRec)
 [![Maintainability](https://api.codeclimate.com/v1/badges/133bea4c2e4ef924ee83/maintainability)](https://codeclimate.com/github/mrksbrg/ImpRec/maintainability)
+[![CodeScene Code Health](https://codescene.io/projects/7136/status-badges/code-health)](https://codescene.io/projects/7136)
 
 ImpRec is a prototype tool supporting change impact analysis (CIA) developed as part of a research project at the Department of Computer Science at Lund University. The tool has been developed as a proof-of-concept of the potential benefits of reusing traceability from previously completed impact analyses. ImpRec is a recommendation system for software engineering (RSSE) that uses a combination of information retrieval-based trace recovery techniques and analysis of network structure to identify potential impact for a given tracker case.
 
