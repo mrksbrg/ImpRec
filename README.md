@@ -1,4 +1,4 @@
-# ImpRec - An Impact Recommender
+# ImpRec - A Change Impact Recommender
 [![Build Status](https://travis-ci.com/mrksbrg/ImpRec.svg?branch=master)](https://travis-ci.com/mrksbrg/ImpRec)
 [![Maintainability](https://api.codeclimate.com/v1/badges/133bea4c2e4ef924ee83/maintainability)](https://codeclimate.com/github/mrksbrg/ImpRec/maintainability)
 [![CodeScene Code Health](https://codescene.io/projects/7136/status-badges/code-health)](https://codescene.io/projects/7136)
